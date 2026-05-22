@@ -17,4 +17,8 @@ public class calculadora {
     public double restar() {
         return numero1 - numero2;
     }
+
+    public double multiplicacion() {
+        return numero1 * numero2;
+    }
 }
